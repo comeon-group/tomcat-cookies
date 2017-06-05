@@ -1,0 +1,11 @@
+{
+  "name": "@comeon/tomcat-cookies",
+  "version": "1.0.0",
+  "description": "js-cookie fix for Tomcat",
+  "main": "index.js",
+  "repository": "https://github.com/comeon-stockholm/tomcat-cookies.git",
+  "license": "MIT",
+  "dependencies": {
+    "js-cookie": "^2.1.4"
+  }
+}
